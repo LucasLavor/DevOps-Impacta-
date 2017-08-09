@@ -40,15 +40,32 @@ TinyMCE
 Widgets
 
 #40907 - Introduce widget dedicated for HTML code
+
+
 #40935 - Facebook Video Works On Preview But Not On Theme
+
+
 #40951 - New Text Widget - Switching Between Visual/Text Editor Strips Out Code
+
+
 #40960 - Widgets: The Text widget should respect the “Disable the visual editor when writing” setting
+
+
 #40972 - TinyMCE editor in Text widget does not have RTL contents
+
+
 #40974 - Updated text widget do not save text (when using paste)
+
 #40977 - Widgets: Query param for `loop` added for non-hosted external videos
+
 #40986 - Widgets: text widget and media widgets cannot be edited in accessibility mode
+
 #41021 - Text widget does not show Title field or TinyMCE editor
+
 #41361 - Text widget can raise JS error if customize-base is enqueued on widgets admin screen
+
 #41386 - Text Widget - Wording - Legacy Mode 4.8.1 beta
+
 #41392 - Theme styles for Text widget do not apply to Custom HTML widget
+
 #41394 - Text widget: Rename legacy mode to visual mode and improve back-compat for widget_text filters
